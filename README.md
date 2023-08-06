@@ -62,4 +62,4 @@ It is also important to declare that the training dataframe was only arranged in
 #### This work has been developed and published by:
 
 - [Bruno Gois – @brunovgois](https://github.com/brunovgois)
-- [Matheus Nascimento – @coadordecoffee](https://github.com/coadordecoffee)
+- [Matheus Nascimento – @tanjounokamioku](https://github.com/tanjounokamioku)
